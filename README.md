@@ -1,10 +1,18 @@
 # AutoHotkey Keyboard Lock Script
 
-This AutoHotkey (AHK) script allows you to lock your keyboard completely using a **Shift + Esc** toggle. Unlocking the keyboard restores functionality.
+This AutoHotkey (AHK) script allows you to lock your keyboard completely using a **Shift + Esc** toggle, with a small red indicator displayed in the top-left corner when locked. Unlocking the keyboard restores functionality.
 
 ---
 
 ## Features
+
+- **Small Red Indicator**: Displays a small red indicator in the top-left corner of the screen when the keyboard is locked.
+
+- **Full Keyboard Lock**: Locks all keys, including letters, numbers, special keys, function keys, and NumPad.
+- **Toggle Lock**: Use `Shift + Esc` to toggle between locked and unlocked states.
+- **Custom Notifications**: Displays fade-out notifications to indicate the lock/unlock status.
+
+- **Small Red Indicator**: Displays a small red indicator in the top-left corner of the screen when the keyboard is locked.
 
 - **Full Keyboard Lock**: Locks all keys, including letters, numbers, special keys, function keys, and NumPad.
 - **Toggle Lock**: Use `Shift + Esc` to toggle between locked and unlocked states.
