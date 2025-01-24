@@ -1,0 +1,1 @@
+# AutoHotkey-Keyboard-Lock-Script
